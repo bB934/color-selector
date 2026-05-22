@@ -5,6 +5,7 @@
 ## 🚀 功能特性
 
 ### 前端功能
+
 - **图片像素色块提取器**
   - 支持 PNG, JPG, WebP, GIF, BMP, SVG 格式（最大 10MB）
   - 点击图片任意位置获取像素颜色
@@ -19,6 +20,7 @@
   - PPT 转 PDF
 
 ### 后端功能
+
 - 图片格式转换（PNG, JPG, WebP）
 - 图片转 PDF
 - PDF 合并
@@ -29,6 +31,7 @@
 ## 📦 技术栈
 
 ### 前端
+
 - **Vue 3** (Composition API)
 - **Vite** (构建工具)
 - **TypeScript** (类型安全)
@@ -38,6 +41,7 @@
 - **SCSS** (样式预处理器)
 
 ### 后端
+
 - **Node.js** + **Express**
 - **TypeScript**
 - **FFmpeg** (视频转换)
@@ -113,10 +117,12 @@ color-selector/
 ## 🔧 环境要求
 
 ### 前端
+
 - Node.js 16+
 - npm 或 yarn
 
 ### 后端
+
 - Node.js 14+
 - LibreOffice (Office转换)
 - FFmpeg (视频转换)
@@ -179,15 +185,6 @@ docker run -p 3000:3000 color-selector
 3.  Commit 你的修改
 4.  Push 到分支
 5.  Open 一个 PR
-
-## 📝 许可
-
-MIT © [bB934](https://github.com/bB934)
-
-## 📞 联系
-
-- GitHub: https://github.com/bB934
-- 问题反馈: 提交 GitHub Issue
 
 ## 📦 版本
 
